@@ -10,13 +10,15 @@ The project is designed to demonstrate the practical application of natural lang
 
 ## Project Structure
 
+```
 ArticleSpinner/
 ├── notebooks/
-│ └── article_spinner.ipynb # Main Jupyter Notebook for building the model
+│    └── article_spinner.ipynb # Main Jupyter Notebook for building the model
 ├── data/
-│ └── bbc_dataset/ # Folder containing the BBC dataset
+│    └── bbc_dataset/ # Folder containing the BBC dataset
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview and instructions
+```
 
 ## Features
 
