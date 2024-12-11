@@ -12,7 +12,7 @@ The project is designed to demonstrate the practical application of natural lang
 
 ```
 ArticleSpinner/
-├── notebooks/
+├── notebook/
 │    └── article_spinner.ipynb # Main Jupyter Notebook for building the model
 ├── data/
 │    └── bbc_dataset/ # Folder containing the BBC dataset
